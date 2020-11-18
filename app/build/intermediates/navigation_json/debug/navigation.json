@@ -1,0 +1,58 @@
+[
+  {
+    "name": "main_navigation",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "https"
+        ],
+        "host": "www.dicoding.com",
+        "port": -1,
+        "path": "/profile",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mSourceFile": {
+              "path": "D:\\FAUSTINA PUSPAMURTI\\MyNavigation\\app\\src\\main\\res\\navigation\\main_navigation.xml"
+            },
+            "mDescription": "main_navigation"
+          },
+          "mSourcePosition": {
+            "mStartLine": 11,
+            "mStartColumn": 8,
+            "mStartOffset": 542,
+            "mEndLine": 13,
+            "mEndColumn": 57,
+            "mEndOffset": 650
+          }
+        },
+        "isAutoVerify": false
+      },
+      {
+        "schemes": [
+          "https"
+        ],
+        "host": "www.dicoding.com",
+        "port": -1,
+        "path": "/detail/.*",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mSourceFile": {
+              "path": "D:\\FAUSTINA PUSPAMURTI\\MyNavigation\\app\\src\\main\\res\\navigation\\main_navigation.xml"
+            },
+            "mDescription": "main_navigation"
+          },
+          "mSourcePosition": {
+            "mStartLine": 37,
+            "mStartColumn": 8,
+            "mStartOffset": 1608,
+            "mEndLine": 39,
+            "mEndColumn": 63,
+            "mEndOffset": 1723
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]
